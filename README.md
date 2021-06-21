@@ -2,6 +2,8 @@
 
 This is a poor imitation of the game [Codenames](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiNot2OzKnxAhXB-yoKHRELCSYQFjAAegQIAhAD&url=https%3A%2F%2Fcodenames.game%2F&usg=AOvVaw2vMM5y6T9XNWjZ-dU6kbCt)
 
+It is published at https://www.lissel.net/game/
+
 ## Workings
 
 A single .html-file, using a pseudo random generator (and trust between the players!!) to enable a multiplayer experience, without having to provide a server.
